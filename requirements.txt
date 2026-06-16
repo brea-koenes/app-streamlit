@@ -1,4 +1,3 @@
---extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
 scikit-learn
 nltk
@@ -8,5 +7,4 @@ joblib
 transformers
 lightgbm
 gensim
-scipy
 torch
